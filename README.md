@@ -25,4 +25,4 @@ To get a local copy up and running follow these simple steps.
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/EmoteDetect.git
+   git clone https://github.com/Vinu-1975/EmoteDetect.git
